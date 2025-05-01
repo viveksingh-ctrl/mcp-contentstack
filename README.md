@@ -127,6 +127,11 @@ Claude (via AWS Bedrock)
 The client ensures graceful shutdown using `AsyncExitStack` and `aclose()` to clean up all sessions.
 
 ---
+### 🖼️ Interface Preview
+
+Here's a quick look at Claude Desktop in action:
+
+![Screenshot 2025-05-01 at 11 09 25 PM](https://github.com/user-attachments/assets/919de6f5-bb25-45ca-bd0f-87ffbdfcc267)
 
 ## 🛡 License
 
