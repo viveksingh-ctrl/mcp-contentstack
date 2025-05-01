@@ -1,6 +1,6 @@
 # Claude 3.7 Sonnet MCP Interface
 
-This project enables powerful, LLM-agnostic interactions with [Claude 3.7 Sonnet](https://www.anthropic.com/index/claude-3), either via the Claude Desktop (MCP GUI) or directly through a command-line client using [AWS Bedrock](https://aws.amazon.com/bedrock/) and the [MCP protocol](https://github.com/ai-sdk/mcp).
+This project enables powerful, LLM-agnostic interactions with [Claude 3.7 Sonnet](https://www.anthropic.com/claude/sonnet), either via the Claude Desktop (MCP GUI) or directly through a command-line client using [AWS Bedrock](https://aws.amazon.com/bedrock/) and the [MCP protocol](https://modelcontextprotocol.io/introduction).
 
 ---
 
